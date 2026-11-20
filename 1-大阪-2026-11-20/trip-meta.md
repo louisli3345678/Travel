@@ -39,3 +39,15 @@ active（active / aborted；aborted 表示使用者已放棄此規劃，`/trip` 
 - 語言：繁體中文
 - 行程輸出格式：單一檔案 + index.html 網頁版
 - Claude 模式：no-agent
+
+## 旅途模式
+
+旅行期間 2026-12-15 ～ 2026-12-19。新對話時，Claude 先 Read `./current-trip` 確定當前行程，然後讀今天的行程，主動顯示今天城市和接下來的行程。
+
+關鍵檔案（都在 `./1-大阪-2026-11-20/` 底下，除了 traveler-profile 與 index.html）：
+- 行程表：`final-itinerary.md`
+- 行程網頁版：根目錄 `../index.html`（所有行程集中，每次更新後同步）
+- 記帳檔：`expense-log.md` — 使用者提到花費就更新這個檔案
+- 拍照指南：`photography-guide.md`；美食指南：`food-guide.md`
+- 研究報告：`research/` 目錄下的 agent 報告
+- 旅行者畫像：`../traveler-profile.md`（根目錄共用）
