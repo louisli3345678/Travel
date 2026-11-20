@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>五趟旅行計畫</title>
+<style>
+:root{
+  --bg:#f7f5f0;--card:#ffffff;--text:#1f2328;--muted:#6b7280;--line:#e5e1d8;
+  --accent:#c2410c;--accent-soft:#fff1e8;--ok:#15803d;--ok-soft:#e8f6ec;--todo:#9ca3af;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#16181d;--card:#1f2228;--text:#e8e6e1;--muted:#9aa0aa;--line:#2f333b;
+    --accent:#fb923c;--accent-soft:#3a2416;--ok:#4ade80;--ok-soft:#183324;--todo:#6b7280;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#16181d;--card:#1f2228;--text:#e8e6e1;--muted:#9aa0aa;--line:#2f333b;
+  --accent:#fb923c;--accent-soft:#3a2416;--ok:#4ade80;--ok-soft:#183324;--todo:#6b7280;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);
+  font-family:system-ui,-apple-system,"Segoe UI","Noto Sans TC","Microsoft JhengHei",sans-serif;line-height:1.65}
+.wrap{max-width:960px;margin:0 auto;padding:32px 16px 64px}
+header h1{margin:0 0 4px;font-size:1.8rem}
+header p{margin:0;color:var(--muted)}
+nav.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:24px 0 16px}
+nav.tabs button{border:1px solid var(--line);background:var(--card);color:var(--text);
+  padding:8px 14px;border-radius:999px;cursor:pointer;font:inherit;font-size:.95rem}
+nav.tabs button[aria-selected="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+nav.tabs .tag{font-size:.75rem;opacity:.8;margin-left:4px}
+.trip{display:none}
+.trip.active{display:block}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px;margin-bottom:16px}
+.card h2{margin:0 0 12px;font-size:1.25rem}
+.card h3{margin:0 0 10px;font-size:1.05rem}
+.progress{display:flex;flex-wrap:wrap;gap:8px}
+.step{padding:4px 12px;border-radius:999px;font-size:.88rem;border:1px solid var(--line);color:var(--todo)}
+.step.done{background:var(--ok-soft);color:var(--ok);border-color:transparent}
+.step.next{background:var(--accent-soft);color:var(--accent);border-color:transparent;font-weight:600}
+table{width:100%;border-collapse:collapse}
+th,td{text-align:left;padding:8px 6px;border-bottom:1px solid var(--line);vertical-align:top}
+th{width:30%;color:var(--muted);font-weight:500}
+tr:last-child th,tr:last-child td{border-bottom:none}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{background:var(--accent-soft);color:var(--accent);padding:2px 10px;border-radius:999px;font-size:.88rem}
+.pending{color:var(--muted);font-style:italic}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+.note{font-size:.88rem;color:var(--muted);margin-top:8px}
+footer{color:var(--muted);font-size:.85rem;margin-top:32px;text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>五趟旅行計畫</h1>
+    <p>日本大阪 · 北海道 · 沖繩 ／ 中國杭州 ／ 台灣澎湖 — 每趟五天四夜</p>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-trip="osaka" aria-selected="true">🇯🇵 大阪 <span class="tag">規劃中</span></button>
+    <button role="tab" data-trip="hokkaido" aria-selected="false">🇯🇵 北海道 <span class="tag">待規劃</span></button>
+    <button role="tab" data-trip="okinawa" aria-selected="false">🇯🇵 沖繩 <span class="tag">待規劃</span></button>
+    <button role="tab" data-trip="hangzhou" aria-selected="false">🇨🇳 杭州 <span class="tag">待規劃</span></button>
+    <button role="tab" data-trip="penghu" aria-selected="false">🇹🇼 澎湖 <span class="tag">待規劃</span></button>
+  </nav>
+
+  <!-- ========== 大阪 ========== -->
+  <section class="trip active" id="osaka">
+    <div class="card">
+      <h2>大阪 · 五天四夜</h2>
+      <div class="progress">
+        <span class="step done">✅ 規劃</span>
+        <span class="step next">⏳ 研究</span>
+        <span class="step">⬜ 排程</span>
+        <span class="step">⬜ 審查</span>
+        <span class="step">⬜ 行前準備</span>
+      </div>
+    </div>
+
+    <div class="grid">
+      <div class="card">
+        <h3>行程概要</h3>
+        <table>
+          <tr><th>目的地</th><td>日本大阪（可加京都、奈良一日遊）</td></tr>
+          <tr><th>日期</th><td>2026/12/12 ～ 12/20 之間取五天四夜</td></tr>
+          <tr><th>旅伴</th><td>情侶 2 人</td></tr>
+          <tr><th>航線</th><td>桃園 TPE → 關西 KIX</td></tr>
+          <tr><th>預算</th><td>約 NT$50,000～60,000<br><small>兩人合計、不含機票</small></td></tr>
+        </table>
+      </div>
+      <div class="card">
+        <h3>本趟設定</h3>
+        <table>
+          <tr><th>興趣</th><td><div class="chips"><span class="chip">美食</span><span class="chip">攝影</span><span class="chip">歷史文化</span><span class="chip">建築藝術</span><span class="chip">放鬆</span></div></td></tr>
+          <tr><th>預算等級</th><td>該省省該花花</td></tr>
+          <tr><th>住宿</th><td>中價位 · 旅館</td></tr>
+          <tr><th>體力</th><td>適中（每天 3～4 個重點）</td></tr>
+          <tr><th>飲食</th><td>什麼都吃</td></tr>
+          <tr><th>排除項</th><td>無</td></tr>
+        </table>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>✈️ 航班</h3>
+      <p class="pending">尚未查詢 — 研究階段會列出 12/12～12/20 間的去回程時間與參考票價。</p>
+    </div>
+    <div class="card">
+      <h3>🏨 住宿</h3>
+      <p class="pending">尚未研究 — 會推薦適合情侶、中價位、交通方便的區域與旅館。</p>
+    </div>
+    <div class="card">
+      <h3>🗓️ 每日行程</h3>
+      <p class="pending">尚未排程。</p>
+    </div>
+    <div class="card">
+      <h3>💰 預算明細</h3>
+      <p class="pending">尚未排程。</p>
+    </div>
+    <div class="card">
+      <h3>🎒 行前清單</h3>
+      <p class="pending">尚未生成 — 建議出發前 1～2 週產出。</p>
+    </div>
+  </section>
+
+  <!-- ========== 其他待規劃行程 ========== -->
+  <section class="trip" id="hokkaido">
+    <div class="card"><h2>北海道 · 五天四夜</h2>
+      <div class="progress"><span class="step next">⏳ 規劃</span><span class="step">⬜ 研究</span><span class="step">⬜ 排程</span><span class="step">⬜ 審查</span><span class="step">⬜ 行前準備</span></div>
+      <p class="note">尚未開始規劃。</p></div>
+  </section>
+  <section class="trip" id="okinawa">
+    <div class="card"><h2>沖繩 · 五天四夜</h2>
+      <div class="progress"><span class="step next">⏳ 規劃</span><span class="step">⬜ 研究</span><span class="step">⬜ 排程</span><span class="step">⬜ 審查</span><span class="step">⬜ 行前準備</span></div>
+      <p class="note">尚未開始規劃。</p></div>
+  </section>
+  <section class="trip" id="hangzhou">
+    <div class="card"><h2>杭州 · 五天四夜</h2>
+      <div class="progress"><span class="step next">⏳ 規劃</span><span class="step">⬜ 研究</span><span class="step">⬜ 排程</span><span class="step">⬜ 審查</span><span class="step">⬜ 行前準備</span></div>
+      <p class="note">尚未開始規劃。</p></div>
+  </section>
+  <section class="trip" id="penghu">
+    <div class="card"><h2>澎湖 · 五天四夜</h2>
+      <div class="progress"><span class="step next">⏳ 規劃</span><span class="step">⬜ 研究</span><span class="step">⬜ 排程</span><span class="step">⬜ 審查</span><span class="step">⬜ 行前準備</span></div>
+      <p class="note">尚未開始規劃。</p></div>
+  </section>
+
+  <footer>最後更新：2026-11-20</footer>
+</div>
+<script>
+(function(){
+  var tabs=document.querySelectorAll('nav.tabs button');
+  function show(id){
+    tabs.forEach(function(b){b.setAttribute('aria-selected',b.dataset.trip===id?'true':'false');});
+    document.querySelectorAll('.trip').forEach(function(s){s.classList.toggle('active',s.id===id);});
+  }
+  tabs.forEach(function(b){b.addEventListener('click',function(){show(b.dataset.trip);history.replaceState(null,'','#'+b.dataset.trip);});});
+  var h=location.hash.slice(1);
+  if(h&&document.getElementById(h))show(h);
+})();
+</script>
+</body>
+</html>
