@@ -71,7 +71,7 @@ footer{color:var(--muted);font-size:.85rem;margin-top:32px;text-align:center}
   <nav class="tabs" role="tablist">
     <button role="tab" data-trip="osaka" aria-selected="true">🇯🇵 大阪 <span class="tag">已排程</span></button>
     <button role="tab" data-trip="hokkaido" aria-selected="false">🇯🇵 北海道 <span class="tag">已排程</span></button>
-    <button role="tab" data-trip="okinawa" aria-selected="false">🇯🇵 沖繩 <span class="tag">待規劃</span></button>
+    <button role="tab" data-trip="okinawa" aria-selected="false">🇯🇵 沖繩 <span class="tag">已排程</span></button>
     <button role="tab" data-trip="hangzhou" aria-selected="false">🇨🇳 杭州 <span class="tag">待規劃</span></button>
     <button role="tab" data-trip="penghu" aria-selected="false">🇹🇼 澎湖 <span class="tag">待規劃</span></button>
   </nav>
@@ -348,8 +348,60 @@ footer{color:var(--muted);font-size:.85rem;margin-top:32px;text-align:center}
   </section>
   <section class="trip" id="okinawa">
     <div class="card"><h2>沖繩 · 五天四夜</h2>
-      <div class="progress"><span class="step next">⏳ 規劃</span><span class="step">⬜ 研究</span><span class="step">⬜ 排程</span><span class="step">⬜ 審查</span><span class="step">⬜ 行前準備</span></div>
-      <p class="note">尚未開始規劃。</p></div>
+      <div class="progress"><span class="step done">✅ 規劃</span><span class="step done">✅ 研究</span><span class="step done">✅ 排程</span><span class="step next">⏳ 審查</span><span class="step">⬜ 行前準備</span></div>
+    </div>
+    <div class="grid">
+      <div class="card"><h3>行程概要</h3><table>
+        <tr><th>基地</th><td>那霸國際通（不租車，單軌＋巴士＋北部巴士一日遊）</td></tr>
+        <tr><th>日期</th><td><strong>2026/12/15（二）～ 12/19（六）</strong></td></tr>
+        <tr><th>機票</th><td>桃園 → 那霸，飛行約 1.5 小時（例：長榮 ~06:45）；每人來回約 NT$8,000～15,000</td></tr>
+        <tr><th>住宿</th><td>國際通／縣廳前中價位旅館</td></tr>
+      </table></div>
+      <div class="card"><h3>💰 預算（兩人）</h3><table>
+        <tr><th>吃、交通、門票、巴士團</th><td>≈ NT$18,000</td></tr>
+        <tr><th>住宿 4 晚</th><td>≈ NT$12,000～20,000</td></tr>
+        <tr><th><strong>小計</strong></th><td><strong>≈ NT$30,000～38,000</strong>（不含機票、購物）</td></tr>
+        <tr><th>機票 ×2</th><td>≈ NT$16,000～30,000</td></tr>
+      </table></div>
+    </div>
+    <div class="card"><h3>⚠️ 重要提醒</h3><ul>
+      <li>冬季約 15～20°C、海風大，不建議下水；12 月起可賞鯨</li>
+      <li>北部巴士一日遊要先預約；首里城正殿重建中</li>
+      <li>想自駕要先辦台灣駕照日文譯本</li>
+    </ul></div>
+    <details class="card day" open><summary><strong>Day 1 · 12/15（二）抵達 · 首里城 · 國際通</strong> <span class="note">¥12,600</span></summary><table class="tl">
+      <tr><th>09:15</th><td>🔒 抵達那霸，單軌到縣廳前寄行李</td></tr>
+      <tr><th>11:00</th><td>🎯 沖繩麵午餐</td></tr>
+      <tr><th>12:30</th><td>🎯⏰ <a href="https://www.google.com/maps/search/首里城公園+那覇市首里金城町1-2" target="_blank" rel="noopener">首里城公園</a></td></tr>
+      <tr><th>17:00</th><td>🎯 <a href="https://www.google.com/maps/search/国際通り+那覇市牧志" target="_blank" rel="noopener">國際通</a> · 壺屋陶器街</td></tr>
+      <tr><th>19:00</th><td>🎯 沖繩料理＋三線現場演奏</td></tr>
+    </table></details>
+    <details class="card day"><summary><strong>Day 2 · 12/16（三）北部巴士一日遊</strong> <span class="note">¥28,960</span></summary><table class="tl">
+      <tr><th>08:00</th><td>🔒 那霸集合</td></tr>
+      <tr><th>09:30</th><td>🎯 <a href="https://www.google.com/maps/search/万座毛+恩納村恩納2871" target="_blank" rel="noopener">萬座毛</a></td></tr>
+      <tr><th>11:30</th><td>🎯 <a href="https://www.google.com/maps/search/古宇利大橋+今帰仁村古宇利" target="_blank" rel="noopener">古宇利大橋</a> · 古宇利島午餐</td></tr>
+      <tr><th>13:30</th><td>🎯⏰ <a href="https://www.google.com/maps/search/沖縄美ら海水族館+本部町石川424" target="_blank" rel="noopener">美麗海水族館</a></td></tr>
+      <tr><th>18:30</th><td>🔒 回那霸</td></tr>
+    </table></details>
+    <details class="card day"><summary><strong>Day 3 · 12/17（四）市場 · 波上宮 · 瀨長島夕陽溫泉</strong> <span class="note">¥18,600</span></summary><table class="tl">
+      <tr><th>09:30</th><td>🎯 ポーたま豬肉蛋飯糰</td></tr>
+      <tr><th>10:30</th><td>🎯 <a href="https://www.google.com/maps/search/第一牧志公設市場+那覇市松尾2-10-1" target="_blank" rel="noopener">牧志公設市場</a>代客料理</td></tr>
+      <tr><th>13:00</th><td>🎯 <a href="https://www.google.com/maps/search/波上宮+那覇市若狭1-25-11" target="_blank" rel="noopener">波上宮</a></td></tr>
+      <tr><th>16:00</th><td>🎯 <a href="https://www.google.com/maps/search/瀬長島ウミカジテラス+豊見城市瀬長174-6" target="_blank" rel="noopener">瀨長島</a>龍神之湯海景溫泉</td></tr>
+      <tr><th>17:40</th><td>🎯 夕陽＋飛機起降，Umikaji Terrace 晚餐</td></tr>
+    </table></details>
+    <details class="card day"><summary><strong>Day 4 · 12/18（五）北谷美國村 · 夕陽 · 阿古豬</strong> <span class="note">¥20,300</span></summary><table class="tl">
+      <tr><th>11:00</th><td>🔒 巴士往<a href="https://www.google.com/maps/search/美浜アメリカンビレッジ+北谷町美浜" target="_blank" rel="noopener">美國村</a></td></tr>
+      <tr><th>12:00</th><td>🎯 塔可飯，逛街拍照</td></tr>
+      <tr><th>17:40</th><td>🎯 Sunset Beach 夕陽</td></tr>
+      <tr><th>19:45</th><td>🎯 阿古豬涮涮鍋（建議預約）</td></tr>
+    </table></details>
+    <details class="card day"><summary><strong>Day 5 · 12/19（六）返台</strong> <span class="note">¥5,200</span></summary><table class="tl">
+      <tr><th>10:30</th><td>🔒 退房，國際通採買</td></tr>
+      <tr><th>14:00</th><td>🔒 單軌往機場</td></tr>
+      <tr><th>15:00</th><td>🔒 報到 · 退稅確認</td></tr>
+      <tr><th>16:50±</th><td>🔒 起飛</td></tr>
+    </table></details>
   </section>
   <section class="trip" id="hangzhou">
     <div class="card"><h2>杭州 · 五天四夜</h2>
