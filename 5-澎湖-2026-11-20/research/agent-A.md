@@ -1,33 +1,36 @@
-# 澎湖研究報告
-
-## G1: 機票（台中 RMQ ⇄ 馬公 MZG，約 40 分）
-- 華信航空 AE 代碼營運，ATR 72（70 座）；樣本班次：AE786 12:15 起飛、AE788 澎湖→台中 14:50 起飛；冬季偶有取消（例：AE794 10/19 取消）
-- ⚠️ 未查到完整時刻表與票價；國內線單程約 NT$1,800～2,200 為一般行情，請以華信官網為準
-- 冬季東北季風／濃霧可能延誤或取消 → 回程別排太緊
-來源：[Trip.com AE788](https://tw.trip.com/flights/status-ae788/)、[Trip.com AE786](https://tw.trip.com/flights/status-ae786/)、[Trip.com AE794](https://hk.trip.com/flights/status-ae794/)
+# A — 核心體驗（馬公／北環／南環）
 
 ## A1: 冬季狀況（重要）
-- 10 月起強烈東北季風，**跳島船班常停開、水上活動暫停**，部分民宿小吃歇業（營業半年、休息半年）
-- 優點：沒人潮、冬季海鮮產季、飯店常有歲末促銷；南岸部分沙灘較避風
+- 10 月起強烈東北季風（冬季風力可達 8～10 級），**跳島船班常停開、水上活動暫停**，部分民宿小吃歇業（營業半年、休息半年）
+- 中央氣象署曾在寒潮時對澎湖發布強風特報（平均風 9 級、陣風 11 級）
+- 優點：沒人潮、冬季海鮮產季、飯店有歲末促銷；南岸部分沙灘較避風
 - 2025 冬季曾發「冬遊澎湖消費券」（住合法旅宿一晚領 500 元）；2026 是否延續 ⚠️ 未確認
-- 風大濕冷，海邊注意安全，不宜靠近浪區
-來源：[uptogo 冬天離島](https://uptogo.com.tw/旅遊/冬天適合去離島嗎？/)、[旺得富](https://wantrich.chinatimes.com/news/20251230900081-420501)、[微笑台灣](https://smiletaiwan.cw.com.tw/article/3848)、[Dcard](https://www.dcard.tw/@shishisin/post/258489797)
+- 海邊風大浪大，不宜靠近浪區
 
-## A2: 景點（⚠️ 未逐一搜尋，依一般資料）
-- 馬公：澎湖天后宮（台灣最古老媽祖廟、國定古蹟）、中央老街、四眼井、順承門、觀音亭西瀛虹橋、篤行十村（眷村）、澎湖生活博物館
-- 北環：中屯風車、跨海大橋、通樑古榕、**二崁聚落**（閩式古厝）、大菓葉玄武岩、池西岩瀑、西嶼東台古堡、漁翁島燈塔（日落）
-- 南環：風櫃洞（冬季浪大更壯觀）、蛇頭山（眺跨海大橋與馬公港）、山水沙灘、嵵裡沙灘
-- 北海：奎壁山摩西分海（看潮汐表）
-- 南海跳島：七美雙心石滬、望安 → 冬季常停駛，列為天候允許時的備案
-來源：[微笑台灣](https://smiletaiwan.cw.com.tw/article/7519)
+來源：[uptogo 冬天離島](https://uptogo.com.tw/旅遊/冬天適合去離島嗎？/)、[旺得富](https://wantrich.chinatimes.com/news/20251230900081-420501)、[NOWnews 強風](https://www.nownews.com/news/6795336)、[Dcard 冬遊](https://www.dcard.tw/@shishisin/post/258489797)
 
-## B: 美食
-- 馬公文康街：鐘記燒餅（干貝蔥蛋加油條）、二信飯糰（05:30 開賣就排隊）
-- 小管麵線、海鮮粥、炸棗、仙人掌冰；伴手禮黑糖糕、花生酥
-- 海鮮餐廳：挑活體 → 秤重 → 料理，計價＝食材＋料理費，先問清楚
-- 冬季部分店家歇業 → 出發前確認
-來源：[食尚玩家](https://supertaste.tvbs.com.tw/food/356179)、[食尚玩家 懶人包](https://supertaste.tvbs.com.tw/pack/356179)、[Trip.com 澎湖美食](https://tw.trip.com/blog/澎湖美食/)
+## A2: 馬公市區（歷史）
+| 景點 | 重點 | 地圖 |
+|---|---|---|
+| 澎湖天后宮 | 台灣最古老媽祖廟、國定古蹟 | [Maps](https://www.google.com/maps/search/澎湖天后宮+馬公市正義街1號) |
+| 中央老街・四眼井 | 馬公最早的街道 | [Maps](https://www.google.com/maps/search/中央老街+馬公市中央街) |
+| 順承門 | 清代城門 | [Maps](https://www.google.com/maps/search/順承門+馬公市) |
+| 觀音亭・西瀛虹橋 | 夕陽 | [Maps](https://www.google.com/maps/search/觀音亭+西瀛虹橋+馬公市介壽路7號) |
+| 篤行十村 | 眷村文化園區 | [Maps](https://www.google.com/maps/search/篤行十村+馬公市新復路) |
+| 澎湖生活博物館 | 三層樓常民生活、討海文化；全票 80 元 ⚠️ 開放時間查官網 | [Maps](https://www.google.com/maps/search/澎湖生活博物館+馬公市新店路327號) |
 
-## C/D: 交通與住宿（⚠️ 未搜尋，一般行情）
-- 冬季風大 → **租汽車**（約 NT$1,500～2,500／天）比機車安全舒適
-- 住宿：馬公市區（吃飯方便），中價位約 NT$2,500～4,500／晚，冬季常有促銷
+來源：[uptogo 澎湖室內](https://uptogo.com.tw/旅遊/澎湖室內/)、[微笑台灣](https://smiletaiwan.cw.com.tw/article/6497)、[Penghu Living Museum](https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Penghu_Living_Museum)
+
+## A3: 北環（白沙・西嶼）
+- 中屯風車 → 跨海大橋 → 通樑古榕 → **二崁聚落**（閩式古厝群、杏仁茶）→ 大菓葉玄武岩 → 池西岩瀑 → 西嶼東台古堡 → 漁翁島燈塔（日落）
+
+## A4: 南環（風櫃・嵵裡）
+- 風櫃洞（冬季浪大更壯觀，遠觀）、蛇頭山（眺跨海大橋與馬公港，秋冬海風強勁不宜靠近海邊）、山水沙灘、嵵裡沙灘（南岸較避風）
+
+來源：[微笑台灣 私房景點](https://smiletaiwan.cw.com.tw/article/3848)、[微笑台灣](https://smiletaiwan.cw.com.tw/article/7519)
+
+## A5: 湖西
+- 奎壁山摩西分海（看潮汐表）、林投公園
+
+## A6: 南海跳島（備案）
+- 七美雙心石滬、望安：冬季船班常停駛，出發前一天確認
