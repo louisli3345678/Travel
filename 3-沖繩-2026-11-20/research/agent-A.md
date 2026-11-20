@@ -1,31 +1,43 @@
-# 沖繩研究報告
+# A — 核心體驗（那霸／北部／瀨長島／北谷）
 
-## G1: 機票（TPE ⇄ OKA，飛行約 1.5 小時，日本快 1 小時）
-- 日本越洋航空 JTA（JAL 集團）NU302 桃園 10:15→那霸 12:50，每日一班；經濟艙來回 NT$7,879 起（2026/7/17～2027/3/27）
-- 長榮 ~06:45／~16:50、華航 ~17:05、星宇 ~12:00 起飛（9 月班表快照 ⚠️ 依官網確認）
-- 星宇那霸⇄台北來回約 ¥51,170 起；整體傳統航空約 NT$8,000～15,000／人
-來源：[JAL/JTA](https://www.jal.co.jp/tw/zhtw/offers/okinawa-jta/index.html)、[星宇](https://www.starlux-airlines.com/flights/zh/flights-from-okinawa-to-taipei)、[funtime](https://www.funtime.com.tw/oveticket/%E6%B2%96%E7%B9%A9%E4%BE%BF%E5%AE%9C%E6%A9%9F%E7%A5%A8)、[KAYAK](https://www.tw.kayak.com/%E8%88%AA%E7%8F%AD/%E6%B2%96%E7%B9%A9-%E9%82%A3%E9%9C%B8%E6%A9%9F%E5%A0%B4-OKA/%E5%8F%B0%E5%8C%97-%E5%8F%B0%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E5%8F%8A%E5%85%B6%E4%BB%96%E6%A9%9F%E5%A0%B4-TPE)
+## A1: 首里城（重大更新）
+- **正殿 2026/11/23 起重新開放內部參觀**（2019 年火災後重建完成，11/22 舉行復原完成典禮）
+- 門票改為大人 **¥1,000**（原 ¥400）；**正殿參觀採事前預約制**，其他付費區不用預約
+- 開放時間請查官網；單軌首里站步行約 15 分到守禮門
+- ✅ 你們 12/15 去剛好是重新開放後三週 → 一定要先上官網預約正殿時段
 
-## A1: 景點（不租車）
-- 那霸：國際通、牧志公設市場、壺屋陶器街、首里城（單軌首里站步行約 15 分；⚠️ 正殿 2019 火災後重建中，出發前確認開放範圍）、波上宮
-- 北部巴士一日遊：萬座毛 → 古宇利大橋 → 美麗海水族館（→ 美國村）；那霸到水族館約 85km、開車近 2 小時；巴士團約 ¥6,500～7,800／人
-- 北谷美國村：海景、異國街景、夕陽
-- 冬季（12-3 月）可賞鯨；不建議下水
-來源：[thejapanode 不租車](https://thejapanode.com/zh-tw/guides/okinawa-without-a-car)、[trvlogue 北部巴士](https://www.trvlogue.com/zh-Hant/okinawa-north-bus-tour)、[funtime 交通](https://www.funtime.com.tw/blog/funtime/%E3%80%90%E6%B2%96%E7%B9%A9%E4%BA%A4%E9%80%9A%E6%87%B6%E4%BA%BA%E5%8C%85%E3%80%91%E4%B8%8D%E9%96%8B%E8%BB%8A%E4%B9%9F%E8%83%BD%E7%8E%A9%E9%81%8D%E6%B2%96%E7%B9%A9%EF%BC%81)、[Dcard](https://www.dcard.tw/@rubao1221/post/258637441/b/1)
+來源：[Travel Watch](https://travel.watch.impress.co.jp/docs/news/2133105.html)、[Time Out](https://www.timeout.jp/tokyo/ja/news/shuri-castle-reopen-102126)、[琉球新報 PR](https://ryukyushimpo.jp/prtimes/entry-4902655.html)、[和樂](https://intojapanwaraku.com/culture/311034/)
 
-## B: 美食
-- 沖繩料理一餐（苦瓜炒、海葡萄、泡盛）、沖繩麵、**阿古豬涮涮鍋**
-- 豬肉蛋飯糰 ポーたま（牧志市場本店、美國村、機場），現做常排 30 分以上
-- 國際通鐵板燒：碧 Heki（需預約）
-來源：[todolist-japan 那霸美食](https://todolist-japan.com/zh/naha-food-guide/)、[gltjp](https://www.gltjp.com/zh-hant/article/item/20210/)
+## A2: 北部巴士一日遊
+| 方案 | 價格 | 內容 |
+|---|---|---|
+| Klook 北部一日遊（含備瀨福木林道） | ¥9,900 | 萬座毛、古宇利島、美麗海、備瀨 |
+| Klook 美麗海＋古宇利＋萬座毛＋美國村 | ¥12,980 | 最完整 |
+| Klook 美麗海＋美國村 | ¥6,088 | 含美麗海與萬座毛門票（2026/7/30 起） |
+| Veltra 中文導遊團 | ⚠️ 價格未查 | 約 10 小時、全程中文 |
+- **注意美麗海停留時間**：有些團只停約 2 小時
+- 冬季：機場巴士 17、22 號 2026/10/15～2027/1/31 停駛
+- **美麗海水族館**：08:30～18:30（最後入館 17:30）；大人 ¥2,180；先網路買票直接掃 QR 入場；海豚秀、海龜館免費
 
-## D: 住宿
-- **國際通／縣廳前**：進出機場（單軌）與吃逛最方便 → 推薦
-- 北谷美國村：看海、異國氛圍，但離機場遠
-- 例：那霸格拉斯麗飯店（縣廳前站 5 分），雙人房約 NT$3,000 起（2025）
-來源：[funtime 住宿](https://www.funtime.com.tw/blog/?p=236993)、[tsunagujapan](https://www.tsunagujapan.com/zh-hant/10-hotels-inns-okinawa-enjoy-delicious-meals/)
+來源：[trvlogue 北部巴士](https://www.trvlogue.com/zh-Hant/okinawa-north-bus-tour)、[trvlogue 評測](https://www.trvlogue.com/zh-Hant/okinawa-north-bus-tour-review)、[Veltra](https://www.veltra.com/en/asia/japan/okinawa/okinawa_main_island/a/196732)、[walkerplus 美麗海](https://summer.walkerplus.com/odekake/detail_e/ar1047e318858/data.html)、[activityjapan](https://activityjapan.com/product/18680?page=8)
 
-## E/F: 天氣與注意
-- 冬季約 15～20°C，不下雪，海風大 → 薄外套＋防風外套（來源年份較舊 ⚠️）
-- 日落約 17:40（比本州晚）⚠️ 常識值
-- 退稅新制同大阪；交通：單軌電車 ゆいレール＋巴士
+## A3: 瀨長島 · 龍神之湯
+- **琉球溫泉 瀨長島飯店 龍神の湯** 日歸：大人 ¥2,000（含浴巾），平假日同價；06:00～24:00（23:00 截止）；海景露天、立湯、蒸氣桑拿
+- 交通：那霸機場 1 樓 6 號站搭 **TK02 ウミカジライナー**，「瀬長島ホテル」下車即到
+- Umikaji Terrace：白色露台餐廳群，看夕陽與飛機起降
+- 團客包場時可能不開放日歸 → 先打電話
+
+來源：[All About](https://news.allabout.co.jp/articles/o/118086/?page=2)、[nifty 溫泉](https://onsen.nifty.com/naha-onsen/onsen011116/)、[jalan](https://www.jalan.net/yad352977)
+
+## A4: 北谷美國村
+- 那霸巴士總站搭 20／28／29 號等約 1 小時、約 ¥740～800
+- 2024 年曾試辦「北谷直行接駁」¥1,000 ⚠️ 現況未確認
+- Sunset Beach 看夕陽（17:40）
+
+來源：[travelist](https://travelist.jp/airport_OKA/guide/posts/p428)、[funliday](https://www.funliday.com/posts/?p=134057)、[東京巴士 PDF](https://tokyobus.jp/okinawa/wp-content/uploads/2024/07/北谷直行シャトルバスチラシ（最終）.pdf)
+
+## A5: 那霸市區
+- 國際通、第一牧志公設市場、壺屋やちむん通（陶器街）、波上宮（懸崖神社）
+- 冬季 12-3 月可賞鯨（另訂船），不建議下水
+
+來源：[thejapanode 不租車](https://thejapanode.com/zh-tw/guides/okinawa-without-a-car)
