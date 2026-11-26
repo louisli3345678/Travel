@@ -12,3 +12,13 @@
 ## G2: 建議
 - 傳統航空：**長榮 BR164 去＋BR163 回**；Day 1 只剩晚上，但 Day 5 可玩到傍晚
 - 想要第一天整天：改大韓航空早班（另查）
+
+
+## G-台中: 台中清泉崗 RMQ ⇄ 釜山 PUS（2026-11-26 補充，改台中出發）
+| 航空 | 去程 | 回程 | 班次 |
+|---|---|---|---|
+| **星宇 JX310／JX311** | 08:10 → 11:30 | 12:30 → 14:00 | 報導寫週二、五、日（2026/6 開航）⚠️ 使用者看到有飛，訂票時確認 12/14 週一、12/19 週六 |
+| 真航空 LJ586／LJ585 | 約 16:15 → 19:35 | 約 14:00 → 15:15 | 每週 5 班，班號與日期說法不一 ⚠️ |
+
+票價未查到。
+來源：[星宇官方公告](https://latestnews.starlux-airlines.com/zh-Global/about-us/travel-advisories/advisories/latest-news/fly_to_PUS)、[Marie Claire](https://www.marieclaire.com.tw/lifestyle/travel/91892)、[WalkerLand](https://www.walkerland.com.tw/subject/view/421946)、[立報傳媒 真航空](https://www.limedia.tw/comm/67795/)、[飛天璇 LJ586](https://flyblog.cc/jin-air/)
