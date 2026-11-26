@@ -19,7 +19,7 @@ active
 - 預算等級：該省省該花花
 - 核心興趣：美食、攝影、歷史文化、建築藝術、放鬆
 - 住宿等級：中價位
-- 住宿類型：旅館；12/15～17 新羅舒泰海雲台 Shilla Stay Haeundae，12/18～19 南浦洞中價位飯店（候選 Hotel Foret Premier Nampo、Arban Hotel）
+- 住宿類型：旅館；12/15～17 新羅舒泰海雲台 Shilla Stay Haeundae，12/18～19 南浦洞中價位飯店（候選 南浦獵犬尊貴飯店、南浦森林頂級飯店、釜山斯坦福飯店等，見 research/agent-D.md）
 - 排除項：無
 
 ## 關鍵檔案（相對於本行程資料夾）
