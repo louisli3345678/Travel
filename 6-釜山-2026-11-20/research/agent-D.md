@@ -15,4 +15,5 @@
 
 來源：[trvlogue 新羅舒泰評測](https://www.trvlogue.com/zh-Hant/shillastay-haeundae-busan-review)、[bring-you 釜山住宿](https://www.bring-you.info/zh-hans/busan-accommodations)、[bring-you 西面](https://www.bring-you.info/zh-hans/seomyeon-accommodations)、[HK01](https://www.hk01.com/article/914367)
 
-住宿預算：4 晚約 NT$9,600～16,000 ⚠️ 12 月實價請查
+住宿預算（六天五夜調整後）：海雲台 3 晚約 NT$7,200～12,000 ＋ 南浦 2 晚約 NT$4,000～6,400 ⚠️ 12 月實價請查
+南浦候選：Hotel Foret Premier Nampo、Arban Hotel（⚠️ 未實查，訂房前比價）

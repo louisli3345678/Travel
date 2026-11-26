@@ -2,7 +2,7 @@
 
 ## A1: 12 月燈飾活動
 - **海雲台光之慶典 2026**：**11/28～2027/1/10**，主題「Deep Dive 海雲台」，30m 光之隧道、12m 船型裝置；聖誕節有人工降雪；海雲台海水浴場，地鐵 2 號線海雲台站 3／5 號出口
-- 光復路陽台音樂秀：12/12、12/19（本行程 12/19 傍晚搭機，趕不上）
+- 光復路陽台音樂秀：12/12、12/19（行程改六天五夜後，12/19 晚上住南浦，排進 Day 5）
 - 南浦洞聖誕樹文化節 2026 日期 ⚠️ 未公布
 
 來源：[慶北每日](https://kbmaeil.com/article/20261114500031)、[釜山市政府](https://www.busan.go.kr/zht/bsnews01/1746178)、[travelmapjourney](https://travelmapjourney.com/busan-winter-festival-2025-haeundae-seomyeon-christmas/)
